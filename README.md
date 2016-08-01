@@ -12,7 +12,7 @@ RUN to setup the toolcahin for use
 
 had to zip a few files cause github was throwing errors due to their size.
 
-toolchain for x86/x86_64 architecture for android ROM compilation , compiled from Linaro GCC 5.3.1 source with graphite and link time optimizations(lto).
+toolchain for x86/x86_64 architecture for android ROM compilation , compiled from Uber GCC 5.4.1 source with graphite and link time optimizations(lto).
 
 
                                  To enable ROM compilation
@@ -27,7 +27,7 @@ cherry-pick
  
 	In android source navigate to build
 
-            https://github.com/sayeed99/build/commit/ebf390a45bc15709a986dfff3c0d8f4a6714a160
+            https://github.com/sayeed99/build/commit/f9197c35b734db93cab454dd96e52192bb182def
 
 	In frameworks/base
 
